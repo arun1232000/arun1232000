@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy! I'm Arun Abraham<br>A passionate Software Developer from India
+Heyy! I'm <b>Arun Abraham</b><br>A passionate Software Developer from India
 
 [![](https://visitcount.itsvg.in/api?id=arun1232000&icon=5&color=3)](https://visitcount.itsvg.in)
 
@@ -17,10 +17,10 @@ Heyy! I'm Arun Abraham<br>A passionate Software Developer from India
 ![](https://github-profile-trophy.vercel.app/?username=arun1232000&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 😂  Dev Meme
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)  ### 😂  Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+
+
 
 ---
 
