@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy! I'm Arun Abraham from India.<br>I'm currently learning software development through creating projects.<br>
+Heyy! I'm Arun Abraham <br>A passionate Software Developer from India<br>
 
 
 ## 🌐 Socials:
