@@ -1,6 +1,7 @@
 # 💫 About Me:
 Heyy! I'm Arun Abraham<br>A passionate Software Developer from India
 
+[![](https://visitcount.itsvg.in/api?id=arun1232000&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arun.abraham.5623) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___aru___n__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-abraham-62149b1b6) 
@@ -19,9 +20,9 @@ Heyy! I'm Arun Abraham<br>A passionate Software Developer from India
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 😂  Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arun1232000&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
